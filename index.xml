@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psyduck&#39;s comfy place.</title>
+    <link>https://psyduck.ru/</link>
+    <description>Recent content on Psyduck&#39;s comfy place.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Tue, 12 May 2020 02:57:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://psyduck.ru/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Игры: Heroes of Might &amp; Magic II</title>
+      <link>https://psyduck.ru/post/games-homm2/</link>
+      <pubDate>Tue, 12 May 2020 13:58:00 +0300</pubDate>
+      
+      <guid>https://psyduck.ru/post/games-homm2/</guid>
+      <description>&lt;p&gt;Хотелось бы поговорить о предшественнике всем известной Heroes of Might &amp;amp; Magic III. Вторая часть с одной стороны мало чем отличается от третьей, но с другой стороны подобные мелочи (улучшенный баланс, проработанный лор игры, геймплейные механики) и являются первопричиной того, что 3 часть хит на все времена, а вторая - была хитом в свое время, а на деле - хорошая крепко сбитая игра, но не более.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Полезная всякость</title>
+      <link>https://psyduck.ru/stuff/</link>
+      <pubDate>Tue, 12 May 2020 02:57:00 +0300</pubDate>
+      
+      <guid>https://psyduck.ru/stuff/</guid>
+      <description>Тут будет нечто полезное - избранные статьи, какие-то интересные ссылки и прочие штуковины.
+полезность</description>
+    </item>
+    
+    <item>
+      <title>Игровые видеоигры</title>
+      <link>https://psyduck.ru/games/</link>
+      <pubDate>Tue, 12 May 2020 02:30:00 +0300</pubDate>
+      
+      <guid>https://psyduck.ru/games/</guid>
+      <description>В данном разделе будут всяческие игры, в которые я играл и на которые есть желания написать кратенькую рецензию. Или же просто какое то мыслишки про геймсы. Надеюсь, это должно быть интересно не только автору!
+Статья 1</description>
+    </item>
+    
+    <item>
+      <title>Книжки: Евгений Иванович Замятин - &#34;Мы&#34;</title>
+      <link>https://psyduck.ru/post/books-we/</link>
+      <pubDate>Tue, 12 May 2020 00:41:00 +0300</pubDate>
+      
+      <guid>https://psyduck.ru/post/books-we/</guid>
+      <description>&lt;p&gt;Это книжка, на которую подозрительно похожи две другие книжки - &amp;ldquo;Дивный новый мир&amp;rdquo; Хаксли и &amp;ldquo;1984&amp;rdquo; Оруэлла.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Шуршание страницами</title>
+      <link>https://psyduck.ru/books/</link>
+      <pubDate>Tue, 12 May 2020 00:30:00 +0300</pubDate>
+      
+      <guid>https://psyduck.ru/books/</guid>
+      <description>В этом разделе будут перечислены книжки, которые я прочитал, и мои краткие обзоры на них. Устраивайтесь поудобнее, книголюбы!
+Евгений Иванович Замятин - Мы</description>
+    </item>
+    
+    <item>
+      <title>Исходный пост, создавший мой интернет мирок.</title>
+      <link>https://psyduck.ru/post/greetings/</link>
+      <pubDate>Mon, 11 May 2020 15:46:39 +0300</pubDate>
+      
+      <guid>https://psyduck.ru/post/greetings/</guid>
+      <description>Добро пожаловать на мой сайт! Здесь я буду выкладывать свои мыслишки о каких-то штуках, прочитанных книжках, фильмах, которые я посмотрел, играх, рецептах и так далее. Проще сказать - это просто некий уголок, куда я буду аккуратно складывать жизненный опыт и свои мысли. В перспективе - с возможностью беседы и обмена мнениями (чему я всегда только рад). Добро пожаловать, дорогой друг!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://psyduck.ru/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://psyduck.ru/about/</guid>
+      <description>Всем привет, я Алексей и на этом сайте я пишу о разных вещах, которые мне интересны. Среди них музыка, книги, фильмы, видеоигры, кулинария и программирование. Надеюсь вам тут понравится!</description>
+    </item>
+    
+    <item>
+      <title>Мои музыкальные творения</title>
+      <link>https://psyduck.ru/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://psyduck.ru/music/</guid>
+      <description>Здесь я собрал некоторые музыки, которые я пишу в качестве хобби, время от времени. На самом деле их намного больше, выложил только некоторые. В основном - электронные жанры, но иногда бывают исключения. Также я обычно делаю простенькое видео на каждую из своих музык. Выкладываю здеся их для самоуслаждения.
+                         </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://psyduck.ru/categories/</loc>
+    <lastmod>2020-05-12T13:58:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://psyduck.ru/categories/games/</loc>
+    <lastmod>2020-05-12T13:58:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://psyduck.ru/post/</loc>
+    <lastmod>2020-05-12T13:58:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://psyduck.ru/post/games-homm2/</loc>
+    <lastmod>2020-05-12T13:58:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://psyduck.ru/</loc>
+    <lastmod>2020-05-12T02:57:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://psyduck.ru/stuff/</loc>
+    <lastmod>2020-05-12T02:57:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://psyduck.ru/games/</loc>
+    <lastmod>2020-05-12T02:30:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://psyduck.ru/categories/books/</loc>
+    <lastmod>2020-05-12T00:41:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://psyduck.ru/post/books-we/</loc>
+    <lastmod>2020-05-12T00:41:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://psyduck.ru/books/</loc>
+    <lastmod>2020-05-12T00:30:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://psyduck.ru/post/greetings/</loc>
+    <lastmod>2020-05-11T15:46:39+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://psyduck.ru/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://psyduck.ru/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://psyduck.ru/music/</loc>
+  </url>
+  
+</urlset>
