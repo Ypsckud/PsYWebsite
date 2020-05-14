@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "psyhut.ru"
 title = "Psyduck's comfy place."
 theme = "hugo-nederburg-theme"
 languageCode = "ru-RU"
