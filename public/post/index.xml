@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Psyduck&#39;s comfy place.</title>
+    <link>https://psyduck.ru/post/</link>
+    <description>Recent content in Posts on Psyduck&#39;s comfy place.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Tue, 12 May 2020 13:58:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://psyduck.ru/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Игры: Heroes of Might &amp; Magic II</title>
+      <link>https://psyduck.ru/post/games-homm2/</link>
+      <pubDate>Tue, 12 May 2020 13:58:00 +0300</pubDate>
+      
+      <guid>https://psyduck.ru/post/games-homm2/</guid>
+      <description>&lt;p&gt;Хотелось бы поговорить о предшественнике всем известной Heroes of Might &amp;amp; Magic III. Вторая часть с одной стороны мало чем отличается от третьей, но с другой стороны подобные мелочи (улучшенный баланс, проработанный лор игры, геймплейные механики) и являются первопричиной того, что 3 часть хит на все времена, а вторая - была хитом в свое время, а на деле - хорошая крепко сбитая игра, но не более.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Книжки: Евгений Иванович Замятин - &#34;Мы&#34;</title>
+      <link>https://psyduck.ru/post/books-we/</link>
+      <pubDate>Tue, 12 May 2020 00:41:00 +0300</pubDate>
+      
+      <guid>https://psyduck.ru/post/books-we/</guid>
+      <description>&lt;p&gt;Это книжка, на которую подозрительно похожи две другие книжки - &amp;ldquo;Дивный новый мир&amp;rdquo; Хаксли и &amp;ldquo;1984&amp;rdquo; Оруэлла.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Исходный пост, создавший мой интернет мирок.</title>
+      <link>https://psyduck.ru/post/greetings/</link>
+      <pubDate>Mon, 11 May 2020 15:46:39 +0300</pubDate>
+      
+      <guid>https://psyduck.ru/post/greetings/</guid>
+      <description>Добро пожаловать на мой сайт! Здесь я буду выкладывать свои мыслишки о каких-то штуках, прочитанных книжках, фильмах, которые я посмотрел, играх, рецептах и так далее. Проще сказать - это просто некий уголок, куда я буду аккуратно складывать жизненный опыт и свои мысли. В перспективе - с возможностью беседы и обмена мнениями (чему я всегда только рад). Добро пожаловать, дорогой друг!</description>
+    </item>
+    
+  </channel>
+</rss>
