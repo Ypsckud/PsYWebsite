@@ -23,3 +23,22 @@ categories: ["books"]
 </br>  
 Резюмируя - книжку скорее не могу посоветовать, только если вы любите антиутопию. Главные причины - сюжет довольно банален, если вы уже читали "Дивный новый мир" и "1984", плюс язык все-таки довольно корявый. Похожее (коверканный язык) было у Фолкнера, но там это смотрелось органично. Здесь от этого уставал, тем более что весьма уважаю красивый литературный язык. На этом все, читайте хорошее, а плохое не читайте, приятного дня!
 
+{{< rawhtml >}}
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+  window.gc_params = {
+    graphcomment_id: 'https-psyhut-ru',
+
+    // if your website has a fixed header, indicate it's height in pixels
+    fixed_header_height: 0,
+  };
+  
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.src = 'https://graphcomment.com/js/integration.js?' + Math.round(Math.random() * 1e8);
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+
+</script>
+{{< /rawhtml >}}
