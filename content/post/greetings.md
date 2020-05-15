@@ -11,18 +11,12 @@ image: "photo-of-ocean-side.jpg"
 <div id="graphcomment"></div>
 <script type="text/javascript">
 
-  /* - - - CONFIGURATION VARIABLES - - - */
-
-  // make sure the id is yours
   window.gc_params = {
     graphcomment_id: 'https-psyhut-ru',
 
     // if your website has a fixed header, indicate it's height in pixels
     fixed_header_height: 0,
   };
-
-  /* - - - DON'T EDIT BELOW THIS LINE - - - */
-
   
   (function() {
     var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
