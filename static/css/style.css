@@ -291,6 +291,11 @@ img {
   color: #8c8c8c;
 }
 
+article img {
+  max-height: 70%;
+  max-width: 100%;
+}
+
 .wp-caption.aligncenter {
   max-width: none;
   margin: 0 auto;
