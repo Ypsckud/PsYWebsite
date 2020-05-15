@@ -1,21 +1,15 @@
 asdasd
 
-{::nomarkdown}
-<form action="https://formspree.io/xoqkvgob" method="POST">
-  <input type="text" name="name">
-  <input type="email" name="_replyto">
-  <input type="submit" value="Send">
+<form method="POST" action="https://formspree.io/xoqkvgob">
+  <div class="hpot">
+    <label>Leave this field empty: <input name="_gotcha"></label>
+  </div>
+  <label>Comments:
+    <textarea name="comments"></textarea>
+  </label>
 </form>
 
-<form action="//formspree.io/xoqkvgob" method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <textarea name="message"></textarea>
-
-    <input type="text" name="_gotcha" style="display:none">
-    <input type="hidden" name="_subject" value="Message via http://psyhub.ru">
-
-    <input type="submit" value="Send">
-</form>
-
-{:/nomarkdown}
+// style.css
+.hpot {
+  display: none;
+}
