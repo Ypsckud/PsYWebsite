@@ -7,7 +7,7 @@ asdasd
   <input type="submit" value="Send">
 </form>
 
-<form action="//formspree.io/talversound@gmail.com" method="POST">
+<form action="//formspree.io/xoqkvgob" method="POST">
     <input type="text" name="name">
     <input type="email" name="_replyto">
     <textarea name="message"></textarea>
