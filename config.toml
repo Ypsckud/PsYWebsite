@@ -1,7 +1,7 @@
 baseURL = ""
 title = "Psyduck's comfy place."
 theme = "hugo-nederburg-theme"
-languageCode = "ru-RU"
+languageCode = "en-US"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -33,10 +33,9 @@ paginate = 5 #frontpage pagination
   copyright = [
     "&copy; 2020 Psyduck",
     "Nederburg Hugo Theme by [Appernetic](https://appernetic.io).",
-    "A port of Tracks by Compete Themes."
   ]
 
-  disable_sri = true
+  # disable_sri = true
 
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
