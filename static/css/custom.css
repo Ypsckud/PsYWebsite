@@ -237,7 +237,7 @@ th {
 .size-large,
 .size-medium,
 .size-thumbnail {
-  height: auto;
+  height: 60%;
   line-height: 0;
   max-width: 50%;
   max-width: calc(100% - 48px);
