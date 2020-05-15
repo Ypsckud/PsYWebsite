@@ -294,7 +294,7 @@ img {
 
 article img {
   max-height: 50%;
-  max-width: 100%;
+  max-width: 50%;
 }
 
 .wp-caption.aligncenter {
