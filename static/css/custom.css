@@ -987,7 +987,7 @@ a img {
   }
   .excerpt.even .featured-image {
     right: auto;
-    left: -1px;
+    left:  auto;
   }
   .excerpt.even:after {
     content: ".";
