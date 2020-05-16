@@ -970,7 +970,7 @@ a img {
     /* fixes FF glitch where image focuses & unfocuses */
     width: 50%;
     /*width: calc(50% + 2px);*/
-    height: auto;
+    height: 100%;
     object-fit: fill;
     padding-bottom: 0;
     position: absolute;
