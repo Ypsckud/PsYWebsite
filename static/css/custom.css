@@ -969,7 +969,7 @@ a img {
             transform: translateZ(0);
     /* fixes FF glitch where image focuses & unfocuses */
     width: 50%;
-    width: calc(50% + 2px);
+    /*width: calc(50% + 2px);*/
     height: 100%;
     padding-bottom: 0;
     position: absolute;
