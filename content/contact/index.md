@@ -5,14 +5,14 @@
 <div class="entry-meta">
           <span class="date"></span>	<span> Добро пожаловать в уголок отправки сообщений </span>
 
-Привет! Здесь вы можете мне чего-нибудь написать. Желательно хорошее! Приятного дня!
+Здесь вы можете мне чего-нибудь написать. Желательно хорошее! Приятного дня!</br>
             <form
   action="https://formspree.io/xoqkvgob"
   method="POST">
   <label>
     Ваша почта:</br>
     <input type="text" name="_replyto">
-  </label></br>
+  </label></br></br>
   <label>
     Ваше сообщение:</br>
     <textarea name="message"></textarea>
