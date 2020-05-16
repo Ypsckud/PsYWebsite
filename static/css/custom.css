@@ -968,7 +968,8 @@ a img {
     -webkit-transform: translateZ(0);
             transform: translateZ(0);
     /* fixes FF glitch where image focuses & unfocuses */
-    width: 50%;
+    width: 25%;
+    width: calc(50% + 2px);
     height: 100%;
     padding-bottom: 0;
     position: absolute;
