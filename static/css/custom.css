@@ -971,9 +971,8 @@ a img {
     /*width: 50%;*/
     /*width: calc(50% + 2px);*/
     /*height: 100%;*/
-    max-width: auto;
-    max-height: 100%;
-    object-fit: contain;
+    max-width: 50%;
+    max-height: 50%;
     padding-bottom: 0;
     position: absolute;
     right: -2px;
@@ -987,7 +986,7 @@ a img {
   }
   .excerpt.even .featured-image {
     right: auto;
-    left:  auto;
+    left: -1px;
   }
   .excerpt.even:after {
     content: ".";
