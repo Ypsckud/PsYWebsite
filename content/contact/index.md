@@ -1,3 +1,6 @@
+---
+---
+
 {{< rawhtml >}}
 <div class="entry-meta">
           <span class="date"></span>	<span> Добро пожаловать в уголок отправки сообщений </span>
