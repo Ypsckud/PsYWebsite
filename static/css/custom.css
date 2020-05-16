@@ -973,7 +973,7 @@ a img {
     height: 100%;
     padding-bottom: 0;
     position: absolute;
-    right: +2px;
+    right: -5px;
   }
   .excerpt:hover {
     opacity: 1;
