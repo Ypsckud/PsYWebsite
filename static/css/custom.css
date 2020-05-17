@@ -803,7 +803,7 @@ a img {
   /*height: 0;*/
   padding-bottom: 50%;
   background-position: 50%;
-  background-size: fill;
+  background-size: cover;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
   -webkit-transition: -webkit-transform 0.3s ease;
