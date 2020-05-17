@@ -797,10 +797,10 @@ a img {
 
 .featured-image {
   position: relative;
-  width: auto;
-  padding-bottom: 40%;
+  width: 100%;
+  padding-bottom: 0;
   background-position: 40%;  
-  object-fit: contain;
+  object-fit: fill;
   height: 40%;
   /*background-size: cover;*/
   -webkit-backface-visibility: hidden;
