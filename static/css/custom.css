@@ -802,7 +802,7 @@ a img {
   object-fit: fill;
   /*height: 0;*/
   /* padding-bottom: 50%;*/
-  background-position: 50%;
+  background-position: 25%;
   background-size: fill;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
