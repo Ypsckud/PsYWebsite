@@ -798,11 +798,11 @@ a img {
 .featured-image {
   /*position: relative;*/
   height: 100%;
-  width: 100%;
+  width: 50%;
   object-fit: fill;
   /*height: 0;*/
   /* padding-bottom: 50%;*/
-  background-position: 25%;
+  background-position: 50%;
   background-size: fill;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
