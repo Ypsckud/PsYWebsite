@@ -797,11 +797,11 @@ a img {
 
 .featured-image {
   position: relative;
-  width: 100%;
+  max-width: 100%;
   padding-bottom: 40%;
   background-position: 40%;  
   object-fit: fill;
-  height: 40%;
+  max-height: 40%;
   /*background-size: cover;*/
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
@@ -953,6 +953,7 @@ a img {
 @media all and (min-width: 56.25em) {
   .excerpt-container {
     width: 50%;
+    object-fit: fill;
     padding: 0 5.55%;
   }
 
@@ -2411,7 +2412,7 @@ li.pingback:first-child {
 }
 /* background image styles */
 .background-image-active .background-image {
-  background-size: fill;
+  background-size: cover;
   background-position: 50%;
   position: fixed;
   z-index: -1;
