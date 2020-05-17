@@ -799,7 +799,8 @@ a img {
   position: relative;
   width: 100%;
   /*object-fit: cover;*/
-  height: 0;
+  display:inline-block;
+  height: 50%;
   padding-bottom: 50%;
   background-position: 50%;
   /*background-size: cover;*/
