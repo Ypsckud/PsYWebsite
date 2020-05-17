@@ -1205,6 +1205,7 @@ a img {
   .entry .featured-image:after {
     position: absolute;
     content: '';
+    object-fit: fill;
     background: #38312f;
     top: 0;
     bottom: 0;
