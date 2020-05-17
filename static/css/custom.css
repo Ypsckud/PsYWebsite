@@ -61,7 +61,7 @@ background-size: 11.1%; /* This is at 6-columns -> just change this # */
 }
 
 body {
-  height: auto;
+  height: 100%;
   font-size: 100%;
   margin: 0;
   padding: 0;
@@ -796,7 +796,7 @@ a img {
 }
 
 .featured-image {
-  position: inherit;
+  position: absolute;
   width: 100%;
   /*object-fit: cover;*/
   height: 50%;
