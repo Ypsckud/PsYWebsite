@@ -797,12 +797,10 @@ a img {
 
 .featured-image {
   position: relative;
-  max-width: 100%;
-  padding-bottom: 100%;
-  background-position: 100%;  
-  object-fit: fill;
-  max-height: auto;
-  background-size: 100%;
+  height: 0;
+  padding-bottom: 50%;
+  background-position: 50%;
+  background-size: cover;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
   -webkit-transition: -webkit-transform 0.3s ease;
@@ -953,7 +951,6 @@ a img {
 @media all and (min-width: 56.25em) {
   .excerpt-container {
     width: 50%;
-    object-fit: fill;
     padding: 0 5.55%;
   }
 
@@ -972,12 +969,11 @@ a img {
             transform: translateZ(0);
     /* fixes FF glitch where image focuses & unfocuses */
     width: 50%;
+    width: calc(50% + 2px);
     height: 100%;
-    /*width: calc(50% + 2px);*/
-    object-fit: fill;
     padding-bottom: 0;
-    /*position: absolute;*/
-    /*right: -2px;*/
+    position: absolute;
+    right: -1px;
   }
   .excerpt:hover {
     opacity: 1;
@@ -1206,7 +1202,6 @@ a img {
   .entry .featured-image:after {
     position: absolute;
     content: '';
-    object-fit: fill;
     background: #38312f;
     top: 0;
     bottom: 0;
