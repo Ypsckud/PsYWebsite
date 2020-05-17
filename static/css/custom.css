@@ -798,8 +798,8 @@ a img {
 .featured-image {
   position: relative;
   max-width: 100%;
-  padding-bottom: 40%;
-  background-position: 40%;  
+  padding-bottom: 100%;
+  background-position: 100%;  
   object-fit: fill;
   max-height: auto;
   background-size: 100%;
