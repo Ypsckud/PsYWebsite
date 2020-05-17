@@ -796,7 +796,7 @@ a img {
 }
 
 .featured-image {
-  position: relative;
+  position: fixed;
   width: 100%;
   /*object-fit: cover;*/
   display:inline-block;
