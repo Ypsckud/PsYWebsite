@@ -1,6 +1,6 @@
 ---
 title: "Игры: Coffee Talk"
-date: 2020-0524T15:38:00+03:00
+date: 2020-05-24T15:38:00+03:00
 draft: false
 image: "games-coffee-talk.jpg"
 showonlyimage: false
