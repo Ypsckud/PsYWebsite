@@ -2,7 +2,7 @@
 title: "Книжки: Кристофер Ишервуд - \"Одинокий мужчина\""
 date: 2020-06-26T18:40:00+03:00
 draft: false
-image: "books-sgovor.jpg"
+image: "books-single-man.jpg"
 showonlyimage: false
 categories: ["books"]
 ---
