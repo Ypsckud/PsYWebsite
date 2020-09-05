@@ -1,6 +1,6 @@
 ---
 title: "Игры: Pilgrims"
-date: 2020-09-06T02:00:32+03:00
+date: 2020-09-06T00:32:00+03:00
 draft: false
 image: "games-Pilgrims.jpg"
 showonlyimage: false
