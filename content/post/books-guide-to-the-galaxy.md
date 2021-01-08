@@ -1,6 +1,6 @@
 ---
 title: "Книжки: Дуглас Адамс - \"Автостопом по галактике + Ресторан у конца Вселенной\""
-date: 2021-08-01T04:38:00+03:00
+date: 2021-01-08T04:38:00+03:00
 draft: false
 showonlyimage: false
 image: "books-guidetogalaxy.jpg"
