@@ -2,7 +2,7 @@
 title: "Игры: Серия Warhammer 40000: Dawn of War"
 date: 2022-01-05T00:22:00+03:00
 draft: false
-image: "games-loria.jpg"
+image: "games-dawn-of-war.jpg"
 showonlyimage: false
 categories: ["games"]
 ---
